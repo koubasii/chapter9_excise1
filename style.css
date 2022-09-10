@@ -2,3 +2,8 @@
   font-size: 100px;
 }
 
+.position{
+  position: absolute;
+  top:100px;
+  right:40px;
+}
